@@ -4,10 +4,10 @@ import './App.css';
 
 function App() {
 	const people = [
-		{ name: 'Alan Turing', number: '040-123456', id: 1 },
-		{ name: 'Ada Lovelace', number: '39-44-5323523', id: 2 },
-		{ name: 'Barbara Liskov', number: '12-43-234345', id: 3 },
-		{ name: 'Mary Poppendieck', number: '39-23-6423122', id: 4 },
+		{ name: 'Pepe Biyuela', number: '965752111225', id: 1 },
+		{ name: 'Aitor Menta', number: '3214578965412', id: 2 },
+		{ name: 'Armando Jaleo', number: '0123456789', id: 3 },
+		{ name: 'Jhony Melavo', number: '9876543210', id: 4 },
 	];
 
 	const [search, setNewSearch] = useState('');
